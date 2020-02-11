@@ -1,4 +1,4 @@
-# debug
+# @vkiq/debug
 
 > Debug Utilities for VkiQ.
 
@@ -6,7 +6,7 @@ To use it, just add the lines below to your VkiQ config file:
 
 ```js
 {
-  plugin: 'debug',
+  plugin: '@vkiq/debug',
   channel: 'main'
 }
 ```
